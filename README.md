@@ -1,2 +1,3 @@
 # hello-world
-Здесь что-то будет храниться
+Hello
+My name is Michael. I want to become an astronaut.
